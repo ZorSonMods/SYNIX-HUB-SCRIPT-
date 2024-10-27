@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZorSonMods/SyniX-HUB-Airsoft-FE-1.5/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZorSonMods/Airsoft-FE-SyniX-HUB-/refs/heads/main/Script"))()"))()
